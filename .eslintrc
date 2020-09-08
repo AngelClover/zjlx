@@ -1,0 +1,17 @@
+{
+  "extends": ["plugin:vue/recommended"],
+  "plugins": [
+    "vue"
+  ], 
+  "parserOptions": {
+    "parser": "babel-eslint",
+  }, 
+  "rules": {
+  }, 
+  "settings": {
+    "html/html-extensions": [".html", ".vue"],
+  }, 
+  "vetur.validation.template"：true
+}
+
+
